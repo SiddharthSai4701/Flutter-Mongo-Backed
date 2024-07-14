@@ -1,0 +1,14 @@
+{
+  "name": "flutter-mongo-backend",
+  "version": "1.0.0",
+  "description": "A collection of APIs for a simple task reminder app built with Flutter, Node JS, Express JS and Mongo DB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Vijay Sai",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
